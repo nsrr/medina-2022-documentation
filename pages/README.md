@@ -10,14 +10,17 @@ At postnatal (P) 18 days old, male mice (n = 10 Shank3ΔC and n = 10 WT litterma
 
 EEG and EMG data were recorded from frontal cortical electrodes (referenced to parietal electrodes) collected with Grass 7 polygraph hardware (Natus Medical Incorporated, Pleasanton, CA) via a light‐weight, counterbalanced cable, amplified, and digitized at 256 Hz using VitalRecorder acquisition software (SleepSign for Animal, Kissei Comtec Co., LTD, Nagano, Japan), with band pass filters set at .5–30 Hz and notch filtering at 60 Hz.
 
-
 Data was manually scored via visual inspection in 4 second resolution (epochs) by an experimenter blinded to conditions. Every epoch was scored as one of three states via the EEG and the Fast Fourier Transform (FFT): wake, non-rapid eye movement sleep (NREM), or rapid eye movement sleep (REMS).
 
 ## Data overview
 
+[Raw data are separated into folders (P24, P30, P45, P60)](:files_path:) that correspond to the number of postnatal days on which sleep was recorded. 
+
 The KCD files contain the raw data which include 1 EEG channel, and 1 EMG channel.  EEG and EMG data were band pass filtered at 0.5-30 Hz  with a Notch filter set to 60 Hz. EEG power analysis was conducted from EEG spectra analysis of 0-20 Hz. Data was then further analyzed and scored using VitalRecorder acquisition software (SleepSign for Animal, Kissei Comtec Co., LTD, Nagano, Japan). 
 
 The CSV files provided contain every scored epoch along with spectral information separated into two 24 hour files: baseline (BL) and sleep deprivation followed by recovery sleep (SD).
+
+The [Medina2022_File_Information.xlsx file](:files_path:) contains genotype and sleep recording information.
 
 ## Access and usage restrictions
 
