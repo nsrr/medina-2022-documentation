@@ -46,7 +46,7 @@ Users must include the following text in any Acknowledgements:
 
 ## References
 
--	Medina 2025 GitHub Documentation: https://github.com/nsrr/medina-2022-documentation
+-	Medina 2022 GitHub Documentation: https://github.com/nsrr/medina-2022-documentation
 
 ## Questions?
 
