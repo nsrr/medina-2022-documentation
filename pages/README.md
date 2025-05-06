@@ -36,7 +36,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> This work was supported by the Justice Equity Diversity and Inclusion (JEDI) award from the Life Science Editors foundation and K01NS104172 from NIH/NINDS to Peixoto L. The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+> The Medina 2022 work was supported by the JEDI award from the Life Science Editors foundation and K01NS104172 from NIH/NINDS to Peixoto L. The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Changelog
 
