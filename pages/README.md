@@ -16,7 +16,7 @@ Data was manually scored via visual inspection in 4 second resolution (epochs) b
 
 [Raw data are separated into folders (P24, P30, P45, P60)](:files_path:) that correspond to the number of postnatal days on which sleep was recorded. 
 
-The KCD files contain the raw data which include 1 EEG channel, and 1 EMG channel.  EEG and EMG data were band pass filtered at 0.5-30 Hz  with a Notch filter set to 60 Hz. EEG power analysis was conducted from EEG spectra analysis of 0-20 Hz. Data was then further analyzed and scored using VitalRecorder acquisition software (SleepSign for Animal, Kissei Comtec Co., LTD, Nagano, Japan). 
+The EDF and KCD files contain the raw signal data which include 1 EEG channel, and 1 EMG channel.  EEG and EMG data were band pass filtered at 0.5-30 Hz  with a Notch filter set to 60 Hz. EEG power analysis was conducted from EEG spectra analysis of 0-20 Hz. Data was then further analyzed and scored using VitalRecorder acquisition software (SleepSign for Animal, Kissei Comtec Co., LTD, Nagano, Japan). 
 
 The CSV files provided contain every scored epoch along with spectral information separated into two 24 hour files: baseline (BL) and sleep deprivation followed by recovery sleep (SD).
 
@@ -39,6 +39,9 @@ Users must include the following text in any Acknowledgements:
 > The Medina 2022 work was supported by the JEDI award from the Life Science Editors foundation and K01NS104172 from NIH/NINDS to Peixoto L. The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Changelog
+
+*August 2025*
+- Add EDF versions of the signal raw data
 
 *May 2025*
 
